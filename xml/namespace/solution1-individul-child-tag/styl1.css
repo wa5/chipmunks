@@ -1,0 +1,14 @@
+@namespace myurl url(http://a.com/c);
+@namespace furn url(http://a.com/d);
+
+myurl|name {
+    background-color: green;
+}
+
+furn|name {
+    color: red;
+}
+
+d|user{
+    background-color: yellow;
+}

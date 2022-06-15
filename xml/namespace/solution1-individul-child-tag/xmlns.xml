@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="styl1.css" type="text/css"?>
+<personData>
+    <user id="1"
+        xmlns:a="http://a.com/mynamespace">
+        <a:name>sachin</a:name>
+        <a:class> andriod</a:class>
+    </user>
+    <user id="2" xmlns:b="http://a.com/b">
+        <name>sachin</name>
+        <class> andriod</class>
+    </user>
+    <!-- confilc -->
+    <user id="a" xmlns:c="http://a.com/c">
+        <c:name>sachin</c:name>
+        <c:class> andriod</c:class>
+    </user>
+    <!-- confilc -->
+    <user id="a" xmlns:d="http://a.com/d">
+        <d:name>sachin</d:name>
+        <d:class> andriod</d:class>
+    </user>
+</personData>
+<!-- dffgsdfg -->

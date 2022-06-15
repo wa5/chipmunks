@@ -1,0 +1,13 @@
+note{
+    background-color: rgb(218, 123, 15);
+    font-size: 70px;
+    color:white;
+}
+label {
+    display: block;
+    font-weight: bold;
+    margin: 5px;
+    width: 225px;
+    text-align: right;
+    background: #dedede;
+    }
