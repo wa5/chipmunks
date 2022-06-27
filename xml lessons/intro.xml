@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.css" type="text/css"?>
+<rolis>
+
+    <rolysays>hello</rolysays>
+    <roli xmlns:b="http://a.com/mydumma2">
+
+        <b:rolysays>hello</b:rolysays>
+    </roli>
+    <roli xmlns:a="http://a.com/mydumma">
+
+        <a:rolysays>hello</a:rolysays>
+    </roli>
+
+</rolis>
+<button>click me</button>
